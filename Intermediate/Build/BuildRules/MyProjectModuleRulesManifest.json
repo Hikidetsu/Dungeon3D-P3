@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Proyectos Unreal\\Proyecto2\\DungeonCrawlerP3DProyecto2\\Source\\MyProject\\MyProject.Build.cs",
+		"E:\\Proyectos Unreal\\Proyecto2\\DungeonCrawlerP3DProyecto2\\Source\\MyProject.Target.cs",
+		"E:\\Proyectos Unreal\\Proyecto2\\DungeonCrawlerP3DProyecto2\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
